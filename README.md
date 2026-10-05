@@ -61,19 +61,21 @@ Kullanıcıların şirketle iletişime geçebilmesi için iletişim bilgilerinin
 
 ## Proje Yapısı
 
+```text
 kurumsal-web-sitesi/
-|
-|-- index.html
-|-- hizmetler.html
-|-- hakkimizda.html
-|-- iletisim.html
-|
-|-- css/
-      |-- style.css
-|-- images/
-|    |-- ekran-ana-sayfa.png
-|    |-- ekran-hizmetler.png
-|    |-- ekran-hakkimizda.png
-|    |-- iletisim.png
-| 
-|--- README.md
+│
+├── index.html
+├── hizmetler.html
+├── hakkimizda.html
+├── iletisim.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   ├── ekran-ana-sayfa.png
+│   ├── ekran-hizmetler.png
+│   ├── ekran-hakkimizda.png
+│   └── iletisim.png
+│
+└── README.md
