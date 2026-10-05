@@ -59,6 +59,32 @@ Kullanıcıların şirketle iletişime geçebilmesi için iletişim bilgilerinin
 
 ## Ekran Görüntüleri
 
+### Ana Sayfa
+
+![Ana Sayfa](images/ekran-ana-sayfa.png)
+
+![Ana Sayfa](images/ekran-ana-sayfa1.png)
+
+![Ana Sayfa](images/ekran-ana-sayfa2.png)
+
+### Hakkımızda
+
+![Hakkımızda](images/ekran-hakkimizda.png)
+
+![Hakkımızda](images/ekran-hakkimizda1.png)
+
+### Hizmetler
+
+![Hizmetler](images/ekran-hizmetler.png)
+
+![Hizmetler](images/ekran-hizmetler1.png)
+
+### İletişim
+
+![İletişim](images/iletisim.png)
+
+![İletişim](images/iletisim1.png)
+
 ## Proje Yapısı
 
 ```text
