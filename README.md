@@ -61,29 +61,24 @@ Kullanıcıların şirketle iletişime geçebilmesi için iletişim bilgilerinin
 
 ### Ana Sayfa
 
-![Ana Sayfa](images/ekran-ana-sayfa.png)
-
-![Ana Sayfa](images/ekran-ana-sayfa1.png)
-
-![Ana Sayfa](images/ekran-ana-sayfa2.png)
+![Ana Sayfa](ekran-ana-sayfa.png)
+![Ana Sayfa](ekran-ana-sayfa1.png)
+![Ana Sayfa](ekran-ana-sayfa2.png)
 
 ### Hakkımızda
 
-![Hakkımızda](images/ekran-hakkimizda.png)
-
-![Hakkımızda](images/ekran-hakkimizda1.png)
+![Hakkımızda](ekran-hakkimizda.png)
+![Hakkımızda](ekran-hakkimizda1.png)
 
 ### Hizmetler
 
-![Hizmetler](images/ekran-hizmetler.png)
-
-![Hizmetler](images/ekran-hizmetler1.png)
+![Hizmetler](ekran-hizmetler.png)
+![Hizmetler](ekran-hizmetler1.png)
 
 ### İletişim
 
-![İletişim](images/iletisim.png)
-
-![İletişim](images/iletisim1.png)
+![İletişim](iletisim.png)
+![İletişim](iletisim1.png)
 
 ## Proje Yapısı
 
